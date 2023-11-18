@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Precious Olayinka</h1>
 <h3 align="center">I'm a Frontend Developer currently learning at Gomycode (https://gomycode.com). I'm passionate about sharing knowledge, documentation and web engineering.</h3> 
-<img align="right" alt="coding" width"400" scr="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presho1&label=Profile%20views&color=0e75b6&style=flat" alt="presho1" /> </p>
 

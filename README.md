@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presho1&label=Profile%20views&color=0e75b6&style=flat" alt="presho1" /> </p>
 
-- 🌱 I’m skilled in **JavaScript, HTML, CSS, MongoDB & NodeJs.**
+- 🌱 I’m skilled in **JavaScript, HTML, CSS, React & Tailwind CSS.**
 
 - 🤝 I’m looking for help with **open source projects, hackathons, internships, and entry-level opportunities.**
 

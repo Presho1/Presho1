@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presho1&label=Profile%20views&color=0e75b6&style=flat" alt="presho1" /> </p>
 
-- 🌱 I’m skilled in **JavaScript, HTML, CSS, React & Tailwind CSS.**
+- 🌱 I’m skilled in **JavaScript, HTML, CSS, React, ReactNative & Tailwind CSS.**
 
-- 🤝 I’m looking for help with **open source projects, hackathons, internships, and entry-level opportunities.**
+- 🤝 I’m looking for help with **open source projects, hackathons, and entry-level opportunities.**
 
-- 💼 Job interests **Software Engineer, Front-end Engineer, or UI Engineer (Intern or Junior level).**
+- 💼 Job interests **Software Engineer, Front-end Engineer, or UI Engineer (Junior level).**
 
 - 📫 How to reach me **preciousolayinka8@gmail.com**
 
